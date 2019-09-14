@@ -1,3 +1,6 @@
 初めてのgit操作。
 2回目のコミットをしてみます。
 edit_japaneseに初コミットです。
+
+My first operation of git.
+I try the second commit operation.
