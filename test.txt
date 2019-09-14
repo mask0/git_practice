@@ -1,2 +1,5 @@
 初めてのgit操作。
 2回目のコミットをしてみます。
+
+My first operation of git.
+I try the second commit operation.
